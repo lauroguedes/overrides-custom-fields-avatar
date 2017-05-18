@@ -1,0 +1,19 @@
+.avatar{
+	text-align: center;
+	margin: 20px;
+	border-top: 1px dashed #999;
+	padding-top: 20px;
+}
+.avatar .image img{
+	max-width: 80px;
+	border-radius: 50%;
+	border: 1px solid #ccc;
+	padding: 3px;
+}
+.avatar .cargo{
+	font-style: italic;
+	color: #999;
+}
+.avatar .sobre{
+	color: #666;
+}
